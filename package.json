@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@material-ui/x-grid": "*"
+  }
+}
