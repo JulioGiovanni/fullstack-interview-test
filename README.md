@@ -24,7 +24,7 @@ source venv/bin/activate
 Para correr el Backend primero se navega a la carpeta Backend, después de activado el virtual environment y se ejecuta el comando
  ```python manage.py runserver```
 
- Para correr el Frontend se navega a la carpeta Frontend y se ejecuta el comando ```npm start````
+ Para correr el Frontend se navega a la carpeta Frontend y se ejecuta el comando ```npm start```
 
 ## Nota
 No pude terminar la parte de los PR
